@@ -1,6 +1,6 @@
 # User Authentification project
 
-Made by: f_name l_name, (groupName)
+Made by: Abdumanap Bexultan, (SE-2012)
 
 # Installing
 
